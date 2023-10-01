@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Albedo",
+    "quality": "fivestar",
+    "element": "Geo",
+    "weapon": "Sword",
+    "region": "Mondstadt",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png"
+  },
+  {
+    "name": "Alhaitham",
+    "quality": "fivestar",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "region": "Sumeru",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png"
+  },
+  {
+    "name": "Aloy",
+    "quality": "fivestar",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "region": "None",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Aloy_Icon.png"
+  },
+  {
+    "name": "Amber",
+    "quality": "fourstar",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "region": "Mondstadt",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png"
+  },
+  {
+    "name": "Arataki Itto",
+    "quality": "fivestar",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "region": "Inazuma",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png"
+  },
+  {
+    "name": "Baizhu",
+    "quality": "fivestar",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "region": "Liyue",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png"
+  },
+  {
+    "name": "Barbara",
+    "quality": "fourstar",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "region": "Mondstadt",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png"
+  },
+  {
+    "name": "Beidou",
+    "quality": "fourstar",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "region": "Liyue",
+    "modeltype": "Tall Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png"
+  },
+  {
+    "name": "Bennett",
+    "quality": "fourstar",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "region": "Mondstadt",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png"
+  },
+  {
+    "name": "Candace",
+    "quality": "fourstar",
+    "element": "Hydro",
+    "weapon": "Polearm",
+    "region": "Sumeru",
+    "modeltype": "Tall Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png"
+  },
+  {
+    "name": "Chongyun",
+    "quality": "fourstar",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "region": "Liyue",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png"
+  },
+  {
+    "name": "Collei",
+    "quality": "fourstar",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "region": "Sumeru",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png"
+  },
+  {
+    "name": "Cyno",
+    "quality": "fivestar",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "region": "Sumeru",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png"
+  },
+  {
+    "name": "Dehya",
+    "quality": "fivestar",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "region": "Sumeru",
+    "modeltype": "Tall Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png"
+  },
+  {
+    "name": "Diluc",
+    "quality": "fivestar",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "region": "Mondstadt",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png"
+  },
+  {
+    "name": "Diona",
+    "quality": "fourstar",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "region": "Mondstadt",
+    "modeltype": "Short Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png"
+  },
+  {
+    "name": "Dori",
+    "quality": "fourstar",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "region": "Sumeru",
+    "modeltype": "Short Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png"
+  },
+  {
+    "name": "Eula",
+    "quality": "fivestar",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "region": "Sumeru",
+    "modeltype": "Tall Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png"
+  },
+  {
+    "name": "Faruzan",
+    "quality": "fourstar",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "region": "Sumeru",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png"
+  },
+  {
+    "name": "Fischl",
+    "quality": "fourstar",
+    "element": "Electro",
+    "weapon": "Bow",
+    "region": "Mondstadt",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png"
+  },
+  {
+    "name": "Freminet",
+    "quality": "fourstar",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "region": "Fontaine",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Freminet_Icon.png"
+  },
+  {
+    "name": "Ganyu",
+    "quality": "fivestar",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "region": "Liyue",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png"
+  },
+  {
+    "name": "Gorou",
+    "quality": "fourstar",
+    "element": "Geo",
+    "weapon": "Bow",
+    "region": "Inazuma",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png"
+  },
+  {
+    "name": "Hu Tao",
+    "quality": "fourstar",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "region": "Liyue",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png"
+  },
+  {
+    "name": "Jean",
+    "quality": "fivestar",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "region": "Mondstadt",
+    "modeltype": "Tall Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png"
+  },
+  {
+    "name": "Kaedehara Kazuha",
+    "quality": "fivestar",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "region": "Inazuma",
+    "modeltype": "Medium Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png"
+  },
+  {
+    "name": "Kaeya",
+    "quality": "fourstar",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "region": "Mondstadt",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png"
+  },
+  {
+    "name": "Kamisato Ayaka",
+    "quality": "fivestar",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "region": "Inazuma",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png"
+  },
+  {
+    "name": "Kamisato Ayato",
+    "quality": "fivestar",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "region": "Inazuma",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png"
+  },
+  {
+    "name": "Kaveh",
+    "quality": "fourstar",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "region": "Sumeru",
+    "modeltype": "Tall Male",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png"
+  },
+  {
+    "name": "Keqing",
+    "quality": "fivestar",
+    "element": "Electro",
+    "weapon": "Sword",
+    "region": "Liyue",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png"
+  },
+  {
+    "name": "Kirara",
+    "quality": "fourstar",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "region": "Inazuma",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png"
+  },
+  {
+    "name": "Klee",
+    "quality": "fivestar",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "region": "Mondstadt",
+    "modeltype": "Short Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png"
+  },
+  {
+    "name": "Kujou Sara",
+    "quality": "fourstar",
+    "element": "Electro",
+    "weapon": "Bow",
+    "region": "Inazuma",
+    "modeltype": "Tall Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png"
+  },
+  {
+    "name": "Kuki Shinobu",
+    "quality": "fourstar",
+    "element": "Electro",
+    "weapon": "Sword",
+    "region": "Inazuma",
+    "modeltype": "Medium Female",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png"
+  }
+]

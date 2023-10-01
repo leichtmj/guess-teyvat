@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'HoyoFont';
+    color: black;
+}
+
+html {
+    background: url('https://imgur.com/FinUqXJ.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+@font-face {
+    font-family: 'HoyoFont';
+    src: url('./src/assets/fonts/zh-cn.ttf') format('truetype');
+}
