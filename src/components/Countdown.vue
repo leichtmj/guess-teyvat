@@ -3,14 +3,14 @@
       <h1 class="white">Timer Mode</h1>
       <h1 class="white" >Compte à rebours: {{ formatTime }}</h1>
       <ul>
-        <li>
-            <button class="white" @click="startCountdown" :disabled="countdownRunning" >Démarrer</button>
+        <li v-if="!countdownRunning">
+            <button class="white" @click="startCountdown"  >Démarrer</button>
         </li>
-        <li>
-            <button class="white" @click="stopCountdown" :disabled="!countdownRunning">Arrêter</button>
+        <li v-if="countdownRunning">
+            <button class="white" @click="stopCountdown" >Arrêter</button>
         </li>
-        <li>
-            <button class="white" @click="resetCountdown" :disabled="!countdownRunning && seconds === initialTime">Réinitialiser</button>
+        <li v-if="countdownRunning">
+            <button class="white" @click="resetCountdown" >Réinitialiser</button>
         </li>
       </ul>
     </div>
@@ -23,6 +23,7 @@
   const seconds = ref(initialTime);
   const countdownRunning = ref(false);
   let countdownIntervalId = null;
+  
   
   const formatTime = computed(() => {
     const minutes = Math.floor(seconds.value / 60);
@@ -41,7 +42,6 @@
                 }
             }, 1000);
         }
-        // cursorToggle()
   };
   
   const stopCountdown = () => {
@@ -49,33 +49,19 @@
           countdownRunning.value = false;
           clearInterval(countdownIntervalId);
         }
-        // cursorToggle()
   };
   
   const resetCountdown = () => {
       countdownRunning.value = false;
       clearInterval(countdownIntervalId);
       seconds.value = initialTime;
-      // cursorToggle()
     };
   
   onBeforeUnmount(() => {
     // Nettoyer l'intervalle lorsque le composant est détruit
     clearInterval(countdownIntervalId);
   });
-
-//   const cursorToggle =() => {
-//       let btns = document.querySelectorAll('button')
-//       btns.forEach(e=>{
-//         if(e.disabled==false) {
-//             e.classList.add('cursor')
-//         }
-//         else {
-//             e.classList.remove('cursor')
-//         }
-//       })
-// }
-    
+  
   </script>
 
 <style>

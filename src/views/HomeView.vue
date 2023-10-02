@@ -132,15 +132,15 @@
   </div>
 
   <div v-if="showGG" class="card w-100 bg-base-100 shadow-xl absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-            <div class="card-body">
-              <h2 class="card-title text-white">Well done !</h2>
-              <p class="text-white">You guess correctly in {{ nbtry }} times !</p>
-              <p class="text-white">Time elapsed : {{  }}</p>
-              <div class="card-actions justify-end">
-                <a href="/"><button class="btn btn-primary">Retry</button></a>
-              </div>
-            </div>
+      <div class="card-body">
+        <h2 class="card-title text-white">Well done !</h2>
+          <p class="text-white">You guess correctly in {{ nbtry }} times !</p>
+          <p class="text-white">Time elapsed : {{  }}</p>
+          <div class="card-actions justify-end">
+            <a href="/"><button class="btn btn-primary">Retry</button></a>
           </div>
+      </div>
+    </div>
 </template>
 
 <style>
